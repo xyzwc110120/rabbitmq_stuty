@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    # RabbitMQ 连接配置参数
+    host: 192.168.106.120
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
